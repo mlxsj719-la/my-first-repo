@@ -1,0 +1,5 @@
+Dependencies for Project 'led', Target 'Target 1': (DO NOT MODIFY !)
+F (.\122)(0x00000000)()
+F (.\main.c)(0x6AEFB81C)()
+F (RTE\Device\STM32F407VGTx\startup_stm32f407xx.s)(0x53AC02C8)()
+F (RTE\Device\STM32F407VGTx\system_stm32f4xx.c)(0x54242A04)()
